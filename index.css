@@ -1,0 +1,36 @@
+
+body{
+    border:5px solid black;
+
+}
+.sign-in-button{
+    color:white;
+    background-image: linear-gradient(to bottom,rgb(0, 128, 96)0%,rgb(0, 128, 58)100%);
+    border: none;
+    border-radius: 35px;
+    padding: 10px 30px;
+}
+.text-color{
+    color: rgb(243, 8, 8);
+}
+.center{
+    text-align: center;
+}
+footer{
+    background-color: grey;
+}
+.text-style{
+    text-style:none;
+}
+.tc-changes{
+    color: rgb(0, 128, 58);
+}
+.footer-center{
+    text-align: center;
+}
+.list-style{
+    list-style: none;
+}
+.center-style{
+    text-align: center;
+}
